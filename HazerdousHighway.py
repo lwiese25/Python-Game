@@ -2,12 +2,12 @@
 Authors: Luke Wiese & Brendan Lavarra
 Date: 11/17/2022
 
-Description: This is a game made in pygame by both Luke Wiese and Brendan Lavarra. This 
+Description: This is a game made in pygame by Luke Wiese. This 
 is a racing game controlled by arrow keys. Every car you dodge gets +1 added to your overall score.
 The goal of the game is to achieve the highest score you can by surviving the longest you can.
 Hitting the cars ends the game.
 
-Code of honesty: We have neither given nor received unauthorized aid in completing this assignment.
+Code of honesty: I have neither given nor received unauthorized aid in completing this assignment.
 """
 # Distance Formula: https://www.w3schools.com/python/ref_math_dist.asp 
 # Importing pygame
