@@ -1,5 +1,5 @@
 """
-Authors: Luke Wiese & Brendan Lavarra
+Authors: Luke Wiese
 Date: 11/17/2022
 
 Description: This is a game made in pygame by Luke Wiese. This 
